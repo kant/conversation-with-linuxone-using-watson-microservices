@@ -15,7 +15,7 @@ When you will complete this Code Pattern, you will understand how to:
 
 # Architecture
 
-This journey provides a chatbot interface to demonsrate how you can simply integrate with an IBM LinuxONE System or, potentially any other system. IBM Cloud private has been configured into the LinuxOne LinuxONE Community Cloud.
+This journey provides a chatbot interface to demonstrate how you can simply integrate with an IBM LinuxONE System or, potentially any other system. IBM Cloud private has been configured into the LinuxOne LinuxONE Community Cloud.
 
 
 ## Overview
@@ -40,7 +40,7 @@ Here is an overview of the interactions betwwen each layer of this code pattern.
 
 # Featured technologies
 
-* Open source technologies : Docker, Kubernetes, Node.js, OpenStack
+* Open source technologies: Docker, Kubernetes, Node.js, OpenStack
 * IBM Systems: IBM LinuxONE Systems, IBM Z
 * IBM Private Cloud (ICP) solution
 * Cognitive/AI technologies: Watson Assistant (aka. "Conversation Service")
